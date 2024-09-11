@@ -1,6 +1,6 @@
 # React-Java Spring 2022
 
-Each individual classwork has different practices but here are the main concepts of our work:
+Each individual classwork has different practices but here are the main concepts of the works:
 - React
 - MongoDB
 - Spark
